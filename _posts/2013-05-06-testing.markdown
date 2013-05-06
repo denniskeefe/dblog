@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "The Common Geek"
+date:   2013-05-05 19:03:46
+categories: jekyll update
+---
+
+This is a first post of my new blog.
